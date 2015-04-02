@@ -14,6 +14,7 @@ public class TabActivity extends FragmentActivity {
 	
 	private LayoutInflater layoutInflater ;
 	
+	//test
 	private Class[] fragmentArray = {
 			FragmentPage1.class,
 			FragmentPage2.class,
